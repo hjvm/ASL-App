@@ -1,0 +1,20 @@
+PODS:
+  - ChameleonFramework/Default (2.1.0)
+  - ChameleonFramework/Swift (2.1.0):
+    - ChameleonFramework/Default
+  - EasyAnimation (1.0.5)
+  - SwiftTweaks (1.0)
+
+DEPENDENCIES:
+  - ChameleonFramework/Swift
+  - EasyAnimation
+  - SwiftTweaks (~> 1.0)
+
+SPEC CHECKSUMS:
+  ChameleonFramework: d21a3cc247abfe5e37609a283a8238b03575cf64
+  EasyAnimation: 32821f37dd39187e7364369a3d8f65d38405cf1d
+  SwiftTweaks: f1496b2a528bbe5ae05d46fe7811a8acc0b6542e
+
+PODFILE CHECKSUM: 431373b3b082b3e8d72256afd7edbd54083d32d2
+
+COCOAPODS: 1.0.1
